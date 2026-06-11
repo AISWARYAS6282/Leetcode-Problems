@@ -13,3 +13,6 @@ class Solution(object):
         # For even digits, x == reversed_half
         # For odd digits, we discard the middle digit via reversed_half // 10
         return x == reversed_half or x == reversed_half // 10
+
+# LeetCode 9: Palindrome Number
+# Time: O(log n) | Space: O(1)
