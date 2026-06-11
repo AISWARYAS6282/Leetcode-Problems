@@ -15,3 +15,6 @@ if __name__ == "__main__":
     prices = [7,1,5,3,6,4]
     result = sol.maxprofit(prices)
     print(f"Maximum Profit: {result}")  # Output: 5
+
+# LeetCode 121: Best Time to Buy and Sell Stock
+# Time: O(n) | Space: O(1)
