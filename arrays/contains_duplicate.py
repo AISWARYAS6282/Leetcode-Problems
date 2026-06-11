@@ -12,3 +12,6 @@ if __name__ == "__main__":
     nums = [1,2,3,4,4,5,5]
     result = sol.containsDuplicate(nums)
     print(f"Contains duplicates: {result}")  # Output: True
+
+# LeetCode 1: Two Sum
+# Time: O(n) | Space: O(n)
