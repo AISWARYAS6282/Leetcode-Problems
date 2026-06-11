@@ -17,3 +17,6 @@ if __name__ == "__main__":
     k = sol.removeDuplicates(nums)
     print (f"k={k} \nSorted array updated={nums[:k]}")
   # Output: 5
+
+# LeetCode 26: Remove Duplicates from Sorted Array
+# Time: O(n) | Space: O(1)
